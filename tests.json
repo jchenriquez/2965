@@ -1,0 +1,26 @@
+{
+  "test1": {
+    "input": "III",
+    "output": 3
+  },
+  "test2": {
+    "input": "IV",
+    "output": 4
+  },
+  "test3": {
+    "input": "IX",
+    "output": 9
+  },
+  "test4": {
+    "input": "XX",
+    "output": 20
+  },
+  "test5": {
+    "input": "XLIV",
+    "output": 44
+  },
+  "test6": {
+    "input": "MCMXCVII",
+    "output": 1997
+  }
+}
